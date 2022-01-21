@@ -1,12 +1,9 @@
-# iOS-ShimmerEffect
-Make Shimmer Effect with Gradient, CoreAnimation, and AutoLayout
-
 <p align="center">
   <a href="https://example.com/">
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">GradientAnimation</h3>
+  <h3 align="center">iOS-ShimmerEffect</h3>
 
   <p align="center">
     How to create Shimmer Effect to load UIView with CoreAnimation and Gradient
